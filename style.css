@@ -1,0 +1,35 @@
+#jumb_h{
+    font-family: 'Roboto', sans-serif;
+    color: #35113a;
+}
+
+.lead{
+    color: #35113a;
+}
+
+#title_h{
+    padding-top: 50px;
+}
+
+#logo_pic{
+    border-radius: 50%;
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+}
+
+.query{
+    padding-top: 20px;
+}
+.quest{
+    text-align: center;
+}
+
+.wrapper{
+    text-align: center;
+    padding-top: 20px;
+}
+.next_btn{
+    position: absolute;
+    
+    }
