@@ -11,13 +11,23 @@
     padding-top: 50px;
 }
 
+#gra{
+    text-align: center;
+    
+}
 #logo_pic{
     border-radius: 50%;
     display: inline-block;
     width: 200px;
     height: 200px;
 }
-
+.gpa_last{
+    text-align: center;
+    align-items: center;
+    display: block;
+    padding-left: 50px;
+    padding-right: 20px;
+}
 .query{
     padding-top: 20px;
 }
@@ -33,3 +43,10 @@
     position: absolute;
     
     }
+.sidel .sider{
+    background: #35113a;
+    height: 100%;
+    min-height: 100px;
+    display: inline;
+}
+
